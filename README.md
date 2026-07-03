@@ -100,7 +100,7 @@ Sales-Analysis-PowerBI-SQL/
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](Images/Dashboard.png)
 
 ---
 
